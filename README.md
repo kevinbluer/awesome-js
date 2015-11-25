@@ -27,6 +27,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Angular](https://angularjs.org/)
 - [React](https://facebook.github.io/react/)
 - [Ember](http://emberjs.com/)
+- [Aurelia](http://aurelia.io)
 - [Tuxx](https://tuxedojs.org/)
 
 ##### Components
@@ -62,6 +63,11 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Sugar](http://sugarjs.com/)
 - [Ramda](http://ramdajs.com/)
 - [Modernizer](https://modernizr.com/)
+- [Q](https://github.com/kriskowal/q)
+
+##### Date & Time
+
+- [Moment](http://momentjs.com)
 
 ##### Templates
 
@@ -69,6 +75,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [EJS](http://www.embeddedjs.com/)
 - [Jade](http://jade-lang.com/)
 - [Mustache](https://mustache.github.io/)
+- [Dust](http://www.dustjs.com)
 
 ##### Package Management
 
@@ -166,7 +173,8 @@ The the markdown used to render this page is maintained [here](https://github.co
 ##### User Interface
 
 - [Fries](https://github.com/jaunesarmiento/fries)
-- [Ratchet](http://goratchet.com/) 
+- [Ratchet](http://goratchet.com/)
+- [Kendo UI](http://www.telerik.com/kendo-ui/open-source-core)
 
 # Desktop
 
@@ -192,6 +200,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Karma](https://github.com/karma-runner/karma)
 - [Jasmine](http://jasmine.github.io/)
 - [Mocha](http://mochajs.org/)
+- [Chai](http://chaijs.com)
 
 # Scaling / Analysis
 
