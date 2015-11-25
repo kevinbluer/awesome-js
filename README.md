@@ -192,6 +192,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Jasmine](http://jasmine.github.io/)
 - [Mocha](http://mochajs.org/)
 
-# Scaling
+# Scaling / Analysis
 
 - [Statsd](https://github.com/etsy/statsd)
+- [DTrace](https://github.com/chrisa/node-dtrace-provider)
