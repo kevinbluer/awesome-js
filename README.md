@@ -156,10 +156,11 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [GeoJSON](http://geojson.org/)
 - [TopoJSON](https://github.com/mbostock/topojson)
 
-###### Transmission
+##### Transmission
 
 - [JSON](http://www.json.org/)
 - [DDP](https://www.meteor.com/ddp)
+- [XDomain](https://github.com/jpillora/xdomain) – a pure JavaScript CORS alternative
 
 # Mobile
 
@@ -188,7 +189,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 # Backends
 
-###### API's
+##### API's
 
 - [Restify](https://github.com/restify/node-restify)
 - [HAPI](http://hapijs.com/)
