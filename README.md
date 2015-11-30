@@ -188,6 +188,12 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 - [Commander](https://github.com/tj/commander.js)
 
+# Dapps
+
+- [Etherium](https://www.ethereum.org/)
+- [IPFS](https://ipfs.io/)
+- [Web3.js](https://github.com/ethereum/web3.js)
+
 # Backends
 
 ##### API's
