@@ -68,6 +68,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 ##### Date & Time
 
 - [Moment](http://momentjs.com)
+- [Timekit](http://booking.timekit.io/)
 
 ##### Templates
 
