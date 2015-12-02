@@ -16,6 +16,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Motion](http://mojs.io/)
 - [Waypoints](https://github.com/imakewebthings/waypoints)
 - [Walkway](https://connoratherton.com/walkway)
+- [TheatreJS](https://github.com/Zhouzi/TheaterJS) - Typing effect mimicking human behavior.
 
 ##### Page Interactions
 
@@ -44,6 +45,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Sass](http://sass-lang.com/)
 - [Less](http://lesscss.org/)
 - [Hover](http://ianlunn.github.io/Hover/)
+- [Purify](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
 
 ##### Bundlers / Loaders
 
