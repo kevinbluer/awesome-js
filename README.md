@@ -22,6 +22,8 @@ The the markdown used to render this page is maintained [here](https://github.co
 ##### Page Interactions
 
 - [Focusable](https://github.com/zzarcon/focusable)
+- [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
+- [Yolk](https://github.com/garbles/yolk) - A library for building asynchronous user interfaces.
  
 ##### MV* Frameworks
 
@@ -67,6 +69,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Ramda](http://ramdajs.com/)
 - [Modernizer](https://modernizr.com/)
 - [Q](https://github.com/kriskowal/q)
+- [AlgebraJS](https://github.com/nicolewhite/algebra.js) - Build, display, and solve algebraic equations.
 
 ##### Date & Time
 
@@ -113,7 +116,8 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 ##### Utilities
 
-- [Nodemon](http://nodemon.io/)
+- [Nodemon](http://nodemon.io/) - Nodemon is a utility that will monitor for any changes in your source and automatically restart your server. 
+- [Vinyl](https://github.com/gulpjs/vinyl) - Virtual file format.
 
 ##### Frameworks
 - [Express](http://expressjs.com/)
@@ -204,7 +208,8 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Restify](https://github.com/restify/node-restify)
 - [HAPI](http://hapijs.com/)
 - [StrongLoop Arc](https://strongloop.com/node-js/arc/)
-- [JAWS](https://github.com/jaws-framework/JAWS)
+- [JAWS](https://github.com/jaws-framework/JAWS) - An application framework for building serverless web, mobile and IoT applications.
+- [FeatherJS](http://feathersjs.com/) - Build Better APIs, Faster Than Ever.
 
 # Testing
 
