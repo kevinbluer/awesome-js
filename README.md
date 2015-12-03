@@ -1,6 +1,6 @@
 ### Resources
 
-Below are a list of JavaScript resources, (very) loosely grouped by category and sub-category.
+Below are a list of JavaScript (and a few HTML and CSS thrown in for good measure) resources, *very* loosely grouped by category and sub-category.
 
 The the markdown used to render this page is maintained [here](https://github.com/hongkongjs/resources). Feel free to submit pull-requests with any updates or additions (we'll be updating the version of the page here every couple of weeks).
 
@@ -34,6 +34,10 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Aurelia](http://aurelia.io)
 - [Tuxx](https://tuxedojs.org/)
 
+##### General Frameworks
+
+- [Bootstrap](http://getbootstrap.com/)
+
 ##### Components
 
 - [Polymer](https://www.polymer-project.org/1.0/)
@@ -49,6 +53,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Less](http://lesscss.org/)
 - [Hover](http://ianlunn.github.io/Hover/)
 - [Purify](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
+- [Gridly](https://github.com/IonicaBizau/gridly/) - The minimal (~157 bytes) grid system for modern browsers.
 
 ##### Bundlers / Loaders
 
