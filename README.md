@@ -17,6 +17,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Waypoints](https://github.com/imakewebthings/waypoints)
 - [Walkway](https://connoratherton.com/walkway)
 - [TheatreJS](https://github.com/Zhouzi/TheaterJS) - Typing effect mimicking human behavior.
+- [CreateJS](http://www.createjs.com/) - A suite of modular libraries and tools which work together or independently to enable rich interactive content.
 
 ##### Page Interactions
 
