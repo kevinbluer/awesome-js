@@ -48,6 +48,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 ##### React
 
 - [Modals](https://github.com/rackt/react-modal)
+- [alt](https://github.com/goatslacker/alt) - Isomorphic flux implementation.
 
 ##### CSS Libraries and Utilities
 
