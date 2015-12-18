@@ -18,6 +18,8 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Walkway](https://connoratherton.com/walkway)
 - [TheatreJS](https://github.com/Zhouzi/TheaterJS) - Typing effect mimicking human behavior.
 - [CreateJS](http://www.createjs.com/) - A suite of modular libraries and tools which work together or independently to enable rich interactive content.
+- [ThreeJS](https://github.com/mrdoob/three.js/) - JavaScript 3D library
+- [Snabbt](https://github.com/daniel-lundin/snabbt.js) - Fast animations with javascript and CSS transforms
 
 ##### Page Interactions
 
@@ -114,6 +116,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [CoffeeScript](http://coffeescript.org/)
 - [TypeScript](http://www.typescriptlang.org/)
 - [Dart](https://www.dartlang.org/)
+- [ClojureScript](https://github.com/clojure/clojurescript) - Clojure to JS compiler
 
 ##### Search
 
@@ -127,12 +130,14 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Vinyl](https://github.com/gulpjs/vinyl) - Virtual file format.
 
 ##### Frameworks
+
 - [Express](http://expressjs.com/)
 - [Koa](http://koajs.com/)
 - [Kracken](http://krakenjs.com/)
 - [Meteor](https://www.meteor.com/)
 - [Sails](http://sailsjs.org/)
 - [Eskimo](http://eskimo.io/)
+- [LoopBack](https://github.com/strongloop/loopback) - LoopBack is an open source Node.js framework built on top of Express optimized for building APIs for mobile, web, and other devices.
 
 ##### CMS
 
