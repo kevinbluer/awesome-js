@@ -126,6 +126,11 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 - [Fuzzy Search](https://github.com/bevacqua/fuzzysearch)
 
+##### Misc
+
+- [Clusterize.js](http://clusterize.js.org/) - Plugin to display large data sets easily
+- [Is.js](http://is.js.org/) - Micro check library
+
 # Node
 
 ##### Utilities
@@ -177,6 +182,8 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [NVD3](http://nvd3.org/)
 - [Chartist](https://gionkunz.github.io/chartist-js/)
 - [Crossfilter](http://square.github.io/crossfilter/)
+- [Plotly](https://plot.ly/javascript/)
+- [JSGraphs](http://www.jsgraphs.com/) - JavaScript Graphing Library Comparison
 
 ##### Geographic
 
