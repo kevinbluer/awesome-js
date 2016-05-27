@@ -232,6 +232,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Jasmine](http://jasmine.github.io/)
 - [Mocha](http://mochajs.org/)
 - [Chai](http://chaijs.com)
+- [Ava](https://github.com/avajs/ava)
 
 # Scaling / Analysis
 
