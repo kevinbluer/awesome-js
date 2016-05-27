@@ -10,6 +10,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 - [jQuery](https://jquery.com/)
 - [Zepto](http://zeptojs.com)
+- [Rye](http://ryejs.com/)
 
 ##### Animation
 
