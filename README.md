@@ -1,10 +1,10 @@
-### Resources
+# JavaScript Resources
 
 Below are a list of JavaScript (and a few HTML and CSS thrown in for good measure) resources, *very* loosely grouped by category and sub-category.
 
 The the markdown used to render this page is maintained [here](https://github.com/hongkongjs/resources). Feel free to submit pull-requests with any updates or additions (we'll be updating the version of the page here every couple of weeks).
 
-# Client-side
+## Client-side
 
 ##### DOM Manipulation
 
@@ -74,7 +74,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [SystemJS](https://github.com/systemjs/systemjs)
 - [ES6 Module Loader](https://github.com/ModuleLoader/es6-module-loader)
 
-# Utilities
+## Utilities
 
 ##### Language
 
@@ -134,7 +134,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Clusterize.js](http://clusterize.js.org/) - Plugin to display large data sets easily
 - [Is.js](http://is.js.org/) - Micro check library
 
-# Node
+## Node
 
 ##### Utilities
 
@@ -164,7 +164,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Supervisor](https://github.com/petruisfan/node-supervisor)
 - [Upstart](https://github.com/carlos8f/node-upstarter)
 
-# Data
+## Data
 
 ##### External
 
@@ -199,7 +199,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [DDP](https://www.meteor.com/ddp)
 - [XDomain](https://github.com/jpillora/xdomain) – a pure JavaScript CORS alternative
 
-# Mobile
+## Mobile
 
 ##### Hybrid
 
@@ -216,23 +216,23 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Ratchet](http://goratchet.com/)
 - [Kendo UI](http://www.telerik.com/kendo-ui/open-source-core)
 
-# Desktop
+## Desktop
 
 - [Electron](http://electron.atom.io)
 - [Photon](http://photonkit.com/)
 - [NW.js](https://github.com/nwjs/nw.js)
 
-# CLI
+## CLI
 
 - [Commander](https://github.com/tj/commander.js)
 
-# Dapps
+## Dapps
 
 - [Etherium](https://www.ethereum.org/)
 - [IPFS](https://ipfs.io/)
 - [Web3.js](https://github.com/ethereum/web3.js)
 
-# Backends
+## Backends
 
 ##### API's
 
@@ -243,7 +243,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [FeatherJS](http://feathersjs.com/) - Build Better APIs, Faster Than Ever.
 - [Horizon](https://horizon.io/) - JavaScript API for using RethinkDB as a backend.
 
-# Testing
+## Testing
 
 - [Karma](https://github.com/karma-runner/karma)
 - [Jasmine](http://jasmine.github.io/)
@@ -251,7 +251,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Chai](http://chaijs.com)
 - [Ava](https://github.com/avajs/ava)
 
-# Scaling / Analysis
+## Scaling / Analysis
 
 - [Statsd](https://github.com/etsy/statsd)
 - [DTrace](https://github.com/chrisa/node-dtrace-provider)
