@@ -35,6 +35,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Ember](http://emberjs.com/)
 - [Aurelia](http://aurelia.io)
 - [Tuxx](https://tuxedojs.org/)
+- [Vue](https://vuejs.org/)
 
 ##### General Frameworks
 
