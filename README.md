@@ -20,7 +20,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [CreateJS](http://www.createjs.com/) - A suite of modular libraries and tools which work together or independently to enable rich interactive content.
 - [ThreeJS](https://github.com/mrdoob/three.js/) - JavaScript 3D library
 - [Snabbt](https://github.com/daniel-lundin/snabbt.js) - Fast animations with javascript and CSS transforms
-- [Famous] (http://famous.org/) - High-performance javascript library for animations & interfaces
+- [Famous](http://famous.org/) - High-performance javascript library for animations & interfaces
 
 ##### Page Interactions
 
@@ -195,6 +195,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 - [Cordova](https://cordova.apache.org/)
 - [Ionic](http://ionicframework.com/)
+- [Ionic2](http://ionic.io/2)
 - [React Native](https://facebook.github.io/react-native/)
 - [NativeScript](https://www.nativescript.org/)
 
