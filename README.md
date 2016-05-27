@@ -1,5 +1,3 @@
-#Edit as KAREEM
-
 ### Resources
 
 Below are a list of JavaScript (and a few HTML and CSS thrown in for good measure) resources, *very* loosely grouped by category and sub-category.
