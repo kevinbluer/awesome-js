@@ -166,6 +166,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 ##### Storage
 
 - [JSData](http://www.js-data.io/)
+- [Breeze](http://www.getbreezenow.com/)
 
 ##### Visualization
 
