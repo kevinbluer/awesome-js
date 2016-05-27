@@ -20,13 +20,14 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [CreateJS](http://www.createjs.com/) - A suite of modular libraries and tools which work together or independently to enable rich interactive content.
 - [ThreeJS](https://github.com/mrdoob/three.js/) - JavaScript 3D library
 - [Snabbt](https://github.com/daniel-lundin/snabbt.js) - Fast animations with javascript and CSS transforms
+- [Famous](http://famous.org/) - High-performance javascript library for animations & interfaces
 
 ##### Page Interactions
 
 - [Focusable](https://github.com/zzarcon/focusable)
 - [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
 - [Yolk](https://github.com/garbles/yolk) - A library for building asynchronous user interfaces.
- 
+
 ##### MV* Frameworks
 
 - [Backbone](http://backbonejs.org/)
@@ -130,7 +131,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 ##### Utilities
 
-- [Nodemon](http://nodemon.io/) - Nodemon is a utility that will monitor for any changes in your source and automatically restart your server. 
+- [Nodemon](http://nodemon.io/) - Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.
 - [Vinyl](https://github.com/gulpjs/vinyl) - Virtual file format.
 
 ##### Frameworks
@@ -195,6 +196,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 - [Cordova](https://cordova.apache.org/)
 - [Ionic](http://ionicframework.com/)
+- [Ionic2](http://ionic.io/2)
 - [React Native](https://facebook.github.io/react-native/)
 - [NativeScript](https://www.nativescript.org/)
 - [AppBuilder](http://www.telerik.com/platform/appbuilder)
