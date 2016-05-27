@@ -26,7 +26,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Focusable](https://github.com/zzarcon/focusable)
 - [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
 - [Yolk](https://github.com/garbles/yolk) - A library for building asynchronous user interfaces.
- 
+
 ##### MV* Frameworks
 
 - [Backbone](http://backbonejs.org/)
@@ -130,7 +130,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 ##### Utilities
 
-- [Nodemon](http://nodemon.io/) - Nodemon is a utility that will monitor for any changes in your source and automatically restart your server. 
+- [Nodemon](http://nodemon.io/) - Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.
 - [Vinyl](https://github.com/gulpjs/vinyl) - Virtual file format.
 
 ##### Frameworks
@@ -195,6 +195,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 - [Cordova](https://cordova.apache.org/)
 - [Ionic](http://ionicframework.com/)
+- [Ionic2](http://ionic.io/)
 - [React Native](https://facebook.github.io/react-native/)
 - [NativeScript](https://www.nativescript.org/)
 - [AppBuilder](http://www.telerik.com/platform/appbuilder)
