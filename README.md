@@ -10,6 +10,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 - [jQuery](https://jquery.com/)
 - [Zepto](http://zeptojs.com)
+- [Dojo] (http://dojotoolkit.org/reference-guide/1.10/dojo/dom.html)
 
 ##### Animation
 
