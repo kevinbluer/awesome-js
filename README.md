@@ -20,6 +20,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [CreateJS](http://www.createjs.com/) - A suite of modular libraries and tools which work together or independently to enable rich interactive content.
 - [ThreeJS](https://github.com/mrdoob/three.js/) - JavaScript 3D library
 - [Snabbt](https://github.com/daniel-lundin/snabbt.js) - Fast animations with javascript and CSS transforms
+- [Famous](http://famous.org/)
 
 ##### Page Interactions
 
