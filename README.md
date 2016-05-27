@@ -37,10 +37,11 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Tuxx](https://tuxedojs.org/)
 - [Vue](https://vuejs.org/)
 
-##### General Frameworks
+##### CSS Frameworks
 
 - [Bootstrap](http://getbootstrap.com/)
 - [Foundation](http://foundation.zurb.com/)
+- [Materialize](http://materializecss.com/)
 
 ##### Components
 
@@ -196,6 +197,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Ionic](http://ionicframework.com/)
 - [React Native](https://facebook.github.io/react-native/)
 - [NativeScript](https://www.nativescript.org/)
+- [AppBuilder](http://www.telerik.com/platform/appbuilder)
 
 ##### User Interface
 
@@ -228,6 +230,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [StrongLoop Arc](https://strongloop.com/node-js/arc/)
 - [JAWS](https://github.com/jaws-framework/JAWS) - An application framework for building serverless web, mobile and IoT applications.
 - [FeatherJS](http://feathersjs.com/) - Build Better APIs, Faster Than Ever.
+- [Horizon](https://horizon.io/) - JavaScript API for using RethinkDB as a backend.
 
 # Testing
 
@@ -235,6 +238,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Jasmine](http://jasmine.github.io/)
 - [Mocha](http://mochajs.org/)
 - [Chai](http://chaijs.com)
+- [Ava](https://github.com/avajs/ava)
 
 # Scaling / Analysis
 
