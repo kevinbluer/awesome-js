@@ -37,10 +37,11 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Tuxx](https://tuxedojs.org/)
 - [Vue](https://vuejs.org/)
 
-##### General Frameworks
+##### CSS Frameworks
 
 - [Bootstrap](http://getbootstrap.com/)
 - [Foundation](http://foundation.zurb.com/)
+- [Materialize](http://materializecss.com/)
 
 ##### Components
 
