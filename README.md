@@ -230,6 +230,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [StrongLoop Arc](https://strongloop.com/node-js/arc/)
 - [JAWS](https://github.com/jaws-framework/JAWS) - An application framework for building serverless web, mobile and IoT applications.
 - [FeatherJS](http://feathersjs.com/) - Build Better APIs, Faster Than Ever.
+- [Horizon](https://horizon.io/) - JavaScript API for using RethinkDB as a backend.
 
 # Testing
 
