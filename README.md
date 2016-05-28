@@ -140,6 +140,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 - [Nodemon](http://nodemon.io/) - Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.
 - [Vinyl](https://github.com/gulpjs/vinyl) - Virtual file format.
+- [nvm](https://github.com/creationix/nvm) - Node Version Manager
 
 ##### Frameworks
 
