@@ -1,16 +1,17 @@
-### Resources
+# JavaScript Resources
 
 Below are a list of JavaScript (and a few HTML and CSS thrown in for good measure) resources, *very* loosely grouped by category and sub-category.
 
 The the markdown used to render this page is maintained [here](https://github.com/hongkongjs/resources). Feel free to submit pull-requests with any updates or additions (we'll be updating the version of the page here every couple of weeks).
 
-# Client-side
+## Client-side
 
 ##### DOM Manipulation
 
 - [jQuery](https://jquery.com/)
 - [Zepto](http://zeptojs.com)
 - [Dojo] (http://dojotoolkit.org/reference-guide/1.10/dojo/dom.html)
+- [Rye](http://ryejs.com/)
 
 ##### Animation
 
@@ -21,13 +22,14 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [CreateJS](http://www.createjs.com/) - A suite of modular libraries and tools which work together or independently to enable rich interactive content.
 - [ThreeJS](https://github.com/mrdoob/three.js/) - JavaScript 3D library
 - [Snabbt](https://github.com/daniel-lundin/snabbt.js) - Fast animations with javascript and CSS transforms
+- [Famous](http://famous.org/)
 
 ##### Page Interactions
 
 - [Focusable](https://github.com/zzarcon/focusable)
 - [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
 - [Yolk](https://github.com/garbles/yolk) - A library for building asynchronous user interfaces.
- 
+
 ##### MV* Frameworks
 
 - [Backbone](http://backbonejs.org/)
@@ -63,6 +65,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Gridly](https://github.com/IonicaBizau/gridly/) - The minimal (~157 bytes) grid system for modern browsers.
 - [RTLCSS](https://github.com/MohammadYounes/rtlcss) - Framework for transforming Cascading Style Sheets (CSS) from Left-To-Right (LTR) to Right-To-Left (RTL).
 - [Primer](https://github.com/primer/primer) - The base coat of GitHub. Our internal CSS toolkit and guidelines.
+- [CSS Minifier](http://cssminifier.com/) - Online CSS Minifier/Compressor. Provides an API
 
 ##### Bundlers / Loaders
 
@@ -72,7 +75,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [SystemJS](https://github.com/systemjs/systemjs)
 - [ES6 Module Loader](https://github.com/ModuleLoader/es6-module-loader)
 
-# Utilities
+## Utilities
 
 ##### Language
 
@@ -127,11 +130,16 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 - [Fuzzy Search](https://github.com/bevacqua/fuzzysearch)
 
-# Node
+##### Misc
+
+- [Clusterize.js](http://clusterize.js.org/) - Plugin to display large data sets easily
+- [Is.js](http://is.js.org/) - Micro check library
+
+## Node
 
 ##### Utilities
 
-- [Nodemon](http://nodemon.io/) - Nodemon is a utility that will monitor for any changes in your source and automatically restart your server. 
+- [Nodemon](http://nodemon.io/) - Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.
 - [Vinyl](https://github.com/gulpjs/vinyl) - Virtual file format.
 
 ##### Frameworks
@@ -157,11 +165,12 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Supervisor](https://github.com/petruisfan/node-supervisor)
 - [Upstart](https://github.com/carlos8f/node-upstarter)
 
-# Data
+## Data
 
 ##### External
 
 - [Request](https://github.com/request/request)
+- [SuperAgent] (https://visionmedia.github.io/superagent/) - SuperAgent is a small HTTP request library, working both on the server and in the browser.
 - [GraphQL](https://github.com/facebook/graphql) - GraphQL is a query language and execution engine tied to any backend service.
 - [GraphIQL](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
 
@@ -178,6 +187,8 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [NVD3](http://nvd3.org/)
 - [Chartist](https://gionkunz.github.io/chartist-js/)
 - [Crossfilter](http://square.github.io/crossfilter/)
+- [Plotly](https://plot.ly/javascript/)
+- [JSGraphs](http://www.jsgraphs.com/) - JavaScript Graphing Library Comparison
 
 ##### Geographic
 
@@ -190,12 +201,13 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [DDP](https://www.meteor.com/ddp)
 - [XDomain](https://github.com/jpillora/xdomain) – a pure JavaScript CORS alternative
 
-# Mobile
+## Mobile
 
 ##### Hybrid
 
 - [Cordova](https://cordova.apache.org/)
 - [Ionic](http://ionicframework.com/)
+- [Ionic2](http://ionic.io/)
 - [React Native](https://facebook.github.io/react-native/)
 - [NativeScript](https://www.nativescript.org/)
 - [AppBuilder](http://www.telerik.com/platform/appbuilder)
@@ -206,23 +218,23 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Ratchet](http://goratchet.com/)
 - [Kendo UI](http://www.telerik.com/kendo-ui/open-source-core)
 
-# Desktop
+## Desktop
 
 - [Electron](http://electron.atom.io)
 - [Photon](http://photonkit.com/)
 - [NW.js](https://github.com/nwjs/nw.js)
 
-# CLI
+## CLI
 
 - [Commander](https://github.com/tj/commander.js)
 
-# Dapps
+## Dapps
 
 - [Etherium](https://www.ethereum.org/)
 - [IPFS](https://ipfs.io/)
 - [Web3.js](https://github.com/ethereum/web3.js)
 
-# Backends
+## Backends
 
 ##### API's
 
@@ -233,7 +245,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [FeatherJS](http://feathersjs.com/) - Build Better APIs, Faster Than Ever.
 - [Horizon](https://horizon.io/) - JavaScript API for using RethinkDB as a backend.
 
-# Testing
+## Testing
 
 - [Karma](https://github.com/karma-runner/karma)
 - [Jasmine](http://jasmine.github.io/)
@@ -241,7 +253,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Chai](http://chaijs.com)
 - [Ava](https://github.com/avajs/ava)
 
-# Scaling / Analysis
+## Scaling / Analysis
 
 - [Statsd](https://github.com/etsy/statsd)
 - [DTrace](https://github.com/chrisa/node-dtrace-provider)
