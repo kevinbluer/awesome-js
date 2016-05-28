@@ -266,6 +266,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Mocha](http://mochajs.org/)
 - [Chai](http://chaijs.com)
 - [Ava](https://github.com/avajs/ava)
+- [Sinonjs](https://github.com/sinonjs/sinon)
 
 ## Scaling / Analysis
 
