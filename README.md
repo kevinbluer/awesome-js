@@ -10,6 +10,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 - [jQuery](https://jquery.com/)
 - [Zepto](http://zeptojs.com)
+- [Dojo] (http://dojotoolkit.org/reference-guide/1.10/dojo/dom.html)
 - [Rye](http://ryejs.com/)
 
 ##### Animation
@@ -38,6 +39,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Aurelia](http://aurelia.io)
 - [Tuxx](https://tuxedojs.org/)
 - [Vue](https://vuejs.org/)
+- [Knockout](http://knockoutjs.com/)
 
 ##### CSS Frameworks
 
@@ -216,6 +218,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Fries](https://github.com/jaunesarmiento/fries)
 - [Ratchet](http://goratchet.com/)
 - [Kendo UI](http://www.telerik.com/kendo-ui/open-source-core)
+- [Mobile Angular UI](http://mobileangularui.com/)
 
 ## Desktop
 
