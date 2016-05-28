@@ -137,6 +137,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [TypeScript](http://www.typescriptlang.org/)
 - [Dart](https://www.dartlang.org/)
 - [ClojureScript](https://github.com/clojure/clojurescript) - Clojure to JS compiler
+- [Scala.js](https://www.scala-js.org/) - Scala to JS compiler
 
 ##### Search
 
