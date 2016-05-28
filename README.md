@@ -155,6 +155,11 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Vinyl](https://github.com/gulpjs/vinyl) - Virtual file format.
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager
 
+##### Control flow
+
+- [Async](https://github.com/caolan/async) - Async is a utility module which provide tools to work with synchronous javascript.
+- [q](https://github.com/kriskowal/q) - Promises library.
+
 ##### Frameworks
 
 - [Express](http://expressjs.com/)
