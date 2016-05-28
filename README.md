@@ -1,8 +1,19 @@
 # JavaScript Resources
 
-Below are a list of JavaScript (and a few HTML and CSS thrown in for good measure) resources, *very* loosely grouped by category and sub-category.
+Below is a list of JavaScript (and a few HTML and CSS thrown in for good measure) resources, *very* loosely grouped by category and sub-category.
+
+The idea is to list web technologies, frameworks and libraries which are used by members of the HKJS meetup. So you could find out more and discuss with others, or just learn something new.
+
+The following two repositories have a comprehensive list or resources in case the below isn't enough. ;-)
+
+- JavaScript: https://github.com/sorrycc/awesome-javascript
+- Node: https://github.com/sindresorhus/awesome-nodejs
+
+### Contributing
 
 The the markdown used to render this page is maintained [here](https://github.com/hongkongjs/resources). Feel free to submit pull-requests with any updates or additions (we'll be updating the version of the page here every couple of weeks).
+
+---
 
 ## Client-side
 
