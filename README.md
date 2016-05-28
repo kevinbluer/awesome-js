@@ -218,6 +218,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Fries](https://github.com/jaunesarmiento/fries)
 - [Ratchet](http://goratchet.com/)
 - [Kendo UI](http://www.telerik.com/kendo-ui/open-source-core)
+- [Mobile Angular UI](http://mobileangularui.com/)
 
 ## Desktop
 
