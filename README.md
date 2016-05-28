@@ -204,6 +204,8 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Plotly](https://plot.ly/javascript/)
 - [JSGraphs](http://www.jsgraphs.com/) - JavaScript Graphing Library Comparison
 - [Leaflet](http://leafletjs.com/) - Mobile-friendly interactive maps
+- [morris.js](http://morrisjs.github.io/morris.js/)
+- [ng2-charts](https://github.com/valor-software/ng2-charts) - Beautiful charts for Angular2
 
 ##### Geographic
 
