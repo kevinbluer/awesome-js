@@ -169,6 +169,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 ##### External
 
 - [Request](https://github.com/request/request)
+- [SuperAgent] (https://visionmedia.github.io/superagent/) - SuperAgent is a small HTTP request library, working both on the server and in the browser.
 - [GraphQL](https://github.com/facebook/graphql) - GraphQL is a query language and execution engine tied to any backend service.
 - [GraphIQL](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
 
