@@ -97,7 +97,6 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Sugar](http://sugarjs.com/)
 - [Ramda](http://ramdajs.com/)
 - [Modernizer](https://modernizr.com/)
-- [Q](https://github.com/kriskowal/q)
 - [AlgebraJS](https://github.com/nicolewhite/algebra.js) - Build, display, and solve algebraic equations.
 
 ##### Date & Time
