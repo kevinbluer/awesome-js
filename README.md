@@ -1,15 +1,28 @@
-### Resources
+# JavaScript Resources
 
-Below are a list of JavaScript (and a few HTML and CSS thrown in for good measure) resources, *very* loosely grouped by category and sub-category.
+Below is a list of JavaScript (and a few HTML and CSS thrown in for good measure) resources, *very* loosely grouped by category and sub-category.
+
+The idea is to list web technologies, frameworks and libraries which are used by members of the HKJS meetup. So you could find out more and discuss with others, or just learn something new.
+
+The following two repositories have a comprehensive list or resources in case the below isn't enough. ;-)
+
+- JavaScript: https://github.com/sorrycc/awesome-javascript
+- Node: https://github.com/sindresorhus/awesome-nodejs
+
+### Contributing
 
 The the markdown used to render this page is maintained [here](https://github.com/hongkongjs/resources). Feel free to submit pull-requests with any updates or additions (we'll be updating the version of the page here every couple of weeks).
 
-# Client-side
+---
+
+## Client-side
 
 ##### DOM Manipulation
 
 - [jQuery](https://jquery.com/)
 - [Zepto](http://zeptojs.com)
+- [Dojo](http://dojotoolkit.org/reference-guide/1.10/dojo/dom.html)
+- [Rye](http://ryejs.com/)
 
 ##### Animation
 
@@ -20,13 +33,15 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [CreateJS](http://www.createjs.com/) - A suite of modular libraries and tools which work together or independently to enable rich interactive content.
 - [ThreeJS](https://github.com/mrdoob/three.js/) - JavaScript 3D library
 - [Snabbt](https://github.com/daniel-lundin/snabbt.js) - Fast animations with javascript and CSS transforms
+- [Famous](http://famous.org/)
+- [liquidity.js](https://github.com/nhalloran/liquidity.js) - A data visualization library for depicting quantities as animated liquid blobs.
 
 ##### Page Interactions
 
 - [Focusable](https://github.com/zzarcon/focusable)
 - [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
 - [Yolk](https://github.com/garbles/yolk) - A library for building asynchronous user interfaces.
- 
+
 ##### MV* Frameworks
 
 - [Backbone](http://backbonejs.org/)
@@ -36,11 +51,13 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Aurelia](http://aurelia.io)
 - [Tuxx](https://tuxedojs.org/)
 - [Vue](https://vuejs.org/)
+- [Knockout](http://knockoutjs.com/)
 
-##### General Frameworks
+##### CSS Frameworks
 
 - [Bootstrap](http://getbootstrap.com/)
 - [Foundation](http://foundation.zurb.com/)
+- [Materialize](http://materializecss.com/)
 
 ##### Components
 
@@ -56,11 +73,13 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 - [Sass](http://sass-lang.com/)
 - [Less](http://lesscss.org/)
+- [PostCSS](http://postcss.org/)
 - [Hover](http://ianlunn.github.io/Hover/)
 - [Purify](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
 - [Gridly](https://github.com/IonicaBizau/gridly/) - The minimal (~157 bytes) grid system for modern browsers.
 - [RTLCSS](https://github.com/MohammadYounes/rtlcss) - Framework for transforming Cascading Style Sheets (CSS) from Left-To-Right (LTR) to Right-To-Left (RTL).
 - [Primer](https://github.com/primer/primer) - The base coat of GitHub. Our internal CSS toolkit and guidelines.
+- [CSS Minifier](http://cssminifier.com/) - Online CSS Minifier/Compressor. Provides an API
 
 ##### Bundlers / Loaders
 
@@ -70,7 +89,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [SystemJS](https://github.com/systemjs/systemjs)
 - [ES6 Module Loader](https://github.com/ModuleLoader/es6-module-loader)
 
-# Utilities
+## Utilities
 
 ##### Language
 
@@ -80,13 +99,13 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Sugar](http://sugarjs.com/)
 - [Ramda](http://ramdajs.com/)
 - [Modernizer](https://modernizr.com/)
-- [Q](https://github.com/kriskowal/q)
 - [AlgebraJS](https://github.com/nicolewhite/algebra.js) - Build, display, and solve algebraic equations.
 
 ##### Date & Time
 
 - [Moment](http://momentjs.com)
 - [Timekit](http://booking.timekit.io/)
+- [DateDropper](http://felicegattuso.com/projects/datedropper/) & [TimeDropper](http://felicegattuso.com/projects/timedropper/)
 
 ##### Templates
 
@@ -120,17 +139,29 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [TypeScript](http://www.typescriptlang.org/)
 - [Dart](https://www.dartlang.org/)
 - [ClojureScript](https://github.com/clojure/clojurescript) - Clojure to JS compiler
+- [Scala.js](https://www.scala-js.org/) - Scala to JS compiler
 
 ##### Search
 
 - [Fuzzy Search](https://github.com/bevacqua/fuzzysearch)
 
-# Node
+##### Misc
+
+- [Clusterize.js](http://clusterize.js.org/) - Plugin to display large data sets easily
+- [Is.js](http://is.js.org/) - Micro check library
+
+## Node
 
 ##### Utilities
 
-- [Nodemon](http://nodemon.io/) - Nodemon is a utility that will monitor for any changes in your source and automatically restart your server. 
+- [Nodemon](http://nodemon.io/) - Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.
 - [Vinyl](https://github.com/gulpjs/vinyl) - Virtual file format.
+- [nvm](https://github.com/creationix/nvm) - Node Version Manager
+
+##### Control flow
+
+- [Async](https://github.com/caolan/async) - Async is a utility module which provide tools to work with synchronous javascript.
+- [q](https://github.com/kriskowal/q) - Promises library.
 
 ##### Frameworks
 
@@ -155,11 +186,12 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Supervisor](https://github.com/petruisfan/node-supervisor)
 - [Upstart](https://github.com/carlos8f/node-upstarter)
 
-# Data
+## Data
 
 ##### External
 
 - [Request](https://github.com/request/request)
+- [SuperAgent] (https://visionmedia.github.io/superagent/) - SuperAgent is a small HTTP request library, working both on the server and in the browser.
 - [GraphQL](https://github.com/facebook/graphql) - GraphQL is a query language and execution engine tied to any backend service.
 - [GraphIQL](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
 
@@ -176,6 +208,11 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [NVD3](http://nvd3.org/)
 - [Chartist](https://gionkunz.github.io/chartist-js/)
 - [Crossfilter](http://square.github.io/crossfilter/)
+- [Plotly](https://plot.ly/javascript/)
+- [JSGraphs](http://www.jsgraphs.com/) - JavaScript Graphing Library Comparison
+- [Leaflet](http://leafletjs.com/) - Mobile-friendly interactive maps
+- [morris.js](http://morrisjs.github.io/morris.js/)
+- [ng2-charts](https://github.com/valor-software/ng2-charts) - Beautiful charts for Angular2
 
 ##### Geographic
 
@@ -188,38 +225,41 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [DDP](https://www.meteor.com/ddp)
 - [XDomain](https://github.com/jpillora/xdomain) – a pure JavaScript CORS alternative
 
-# Mobile
+## Mobile
 
 ##### Hybrid
 
 - [Cordova](https://cordova.apache.org/)
 - [Ionic](http://ionicframework.com/)
+- [Ionic2](http://ionic.io/)
 - [React Native](https://facebook.github.io/react-native/)
 - [NativeScript](https://www.nativescript.org/)
+- [AppBuilder](http://www.telerik.com/platform/appbuilder)
 
 ##### User Interface
 
 - [Fries](https://github.com/jaunesarmiento/fries)
 - [Ratchet](http://goratchet.com/)
 - [Kendo UI](http://www.telerik.com/kendo-ui/open-source-core)
+- [Mobile Angular UI](http://mobileangularui.com/)
 
-# Desktop
+## Desktop
 
 - [Electron](http://electron.atom.io)
 - [Photon](http://photonkit.com/)
 - [NW.js](https://github.com/nwjs/nw.js)
 
-# CLI
+## CLI
 
 - [Commander](https://github.com/tj/commander.js)
 
-# Dapps
+## Dapps
 
 - [Etherium](https://www.ethereum.org/)
 - [IPFS](https://ipfs.io/)
 - [Web3.js](https://github.com/ethereum/web3.js)
 
-# Backends
+## Backends
 
 ##### API's
 
@@ -228,16 +268,19 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [StrongLoop Arc](https://strongloop.com/node-js/arc/)
 - [JAWS](https://github.com/jaws-framework/JAWS) - An application framework for building serverless web, mobile and IoT applications.
 - [FeatherJS](http://feathersjs.com/) - Build Better APIs, Faster Than Ever.
+- [Horizon](https://horizon.io/) - JavaScript API for using RethinkDB as a backend.
 
-# Testing
+## Testing
 
 - [Karma](https://github.com/karma-runner/karma)
 - [Jasmine](http://jasmine.github.io/)
 - [Mocha](http://mochajs.org/)
 - [Chai](http://chaijs.com)
 - [Cucumber-js](https://github.com/cucumber/cucumber-js)
+- [Ava](https://github.com/avajs/ava)
+- [Sinonjs](https://github.com/sinonjs/sinon)
 
-# Scaling / Analysis
+## Scaling / Analysis
 
 - [Statsd](https://github.com/etsy/statsd)
 - [DTrace](https://github.com/chrisa/node-dtrace-provider)
