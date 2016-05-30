@@ -276,6 +276,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Jasmine](http://jasmine.github.io/)
 - [Mocha](http://mochajs.org/)
 - [Chai](http://chaijs.com)
+- [Cucumber-js](https://github.com/cucumber/cucumber-js)
 - [Ava](https://github.com/avajs/ava)
 - [Sinonjs](https://github.com/sinonjs/sinon)
 
