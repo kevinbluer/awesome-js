@@ -21,7 +21,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 - [jQuery](https://jquery.com/)
 - [Zepto](http://zeptojs.com)
-- [Dojo] (http://dojotoolkit.org/reference-guide/1.10/dojo/dom.html)
+- [Dojo](http://dojotoolkit.org/reference-guide/1.10/dojo/dom.html)
 - [Rye](http://ryejs.com/)
 
 ##### Animation
@@ -138,6 +138,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [TypeScript](http://www.typescriptlang.org/)
 - [Dart](https://www.dartlang.org/)
 - [ClojureScript](https://github.com/clojure/clojurescript) - Clojure to JS compiler
+- [Scala.js](https://www.scala-js.org/) - Scala to JS compiler
 
 ##### Search
 
@@ -203,6 +204,9 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Crossfilter](http://square.github.io/crossfilter/)
 - [Plotly](https://plot.ly/javascript/)
 - [JSGraphs](http://www.jsgraphs.com/) - JavaScript Graphing Library Comparison
+- [Leaflet](http://leafletjs.com/) - Mobile-friendly interactive maps
+- [morris.js](http://morrisjs.github.io/morris.js/)
+- [ng2-charts](https://github.com/valor-software/ng2-charts) - Beautiful charts for Angular2
 
 ##### Geographic
 
