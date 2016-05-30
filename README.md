@@ -99,7 +99,6 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Sugar](http://sugarjs.com/)
 - [Ramda](http://ramdajs.com/)
 - [Modernizer](https://modernizr.com/)
-- [Q](https://github.com/kriskowal/q)
 - [AlgebraJS](https://github.com/nicolewhite/algebra.js) - Build, display, and solve algebraic equations.
 
 ##### Date & Time
@@ -158,6 +157,11 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Nodemon](http://nodemon.io/) - Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.
 - [Vinyl](https://github.com/gulpjs/vinyl) - Virtual file format.
 - [nvm](https://github.com/creationix/nvm) - Node Version Manager
+
+##### Control flow
+
+- [Async](https://github.com/caolan/async) - Async is a utility module which provide tools to work with synchronous javascript.
+- [q](https://github.com/kriskowal/q) - Promises library.
 
 ##### Frameworks
 
