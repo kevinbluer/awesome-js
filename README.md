@@ -34,6 +34,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [ThreeJS](https://github.com/mrdoob/three.js/) - JavaScript 3D library
 - [Snabbt](https://github.com/daniel-lundin/snabbt.js) - Fast animations with javascript and CSS transforms
 - [Famous](http://famous.org/)
+- [liquidity.js](https://github.com/nhalloran/liquidity.js) - A data visualization library for depicting quantities as animated liquid blobs.
 
 ##### Page Interactions
 
