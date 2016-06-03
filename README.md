@@ -58,6 +58,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Bootstrap](http://getbootstrap.com/)
 - [Foundation](http://foundation.zurb.com/)
 - [Materialize](http://materializecss.com/)
+- [Semantic UI](http://semantic-ui.com/)
 
 ##### Components
 
