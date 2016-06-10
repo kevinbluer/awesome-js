@@ -248,7 +248,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 - [Electron](http://electron.atom.io)
 - [Photon](http://photonkit.com/)
-- [NW.js](https://github.com/nwjs/nw.js)
+- [NW.js](http://nwjs.io/)
 
 ## CLI
 
