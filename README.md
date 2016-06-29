@@ -35,6 +35,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Snabbt](https://github.com/daniel-lundin/snabbt.js) - Fast animations with javascript and CSS transforms
 - [Famous](http://famous.org/)
 - [liquidity.js](https://github.com/nhalloran/liquidity.js) - A data visualization library for depicting quantities as animated liquid blobs.
+- [anime-js](http://anime-js.com/) - Anime (/ˈæn.ə.meɪ/) is a flexible yet lightweight JavaScript animation library.
 
 ##### Page Interactions
 
