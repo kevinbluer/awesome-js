@@ -281,6 +281,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 - [Cucumber-js](https://github.com/cucumber/cucumber-js)
 - [Ava](https://github.com/avajs/ava)
 - [Sinonjs](https://github.com/sinonjs/sinon)
+- [Protractor](https://github.com/angular/protractor)
 
 ## Scaling / Analysis
 
