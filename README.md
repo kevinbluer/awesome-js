@@ -46,7 +46,8 @@ The the markdown used to render this page is maintained [here](https://github.co
 ##### MV* Frameworks
 
 - [Backbone](http://backbonejs.org/)
-- [Angular](https://angularjs.org/)
+- [Angular](https://angular.io/)
+- [AngularJS](https://angularjs.org/)
 - [React](https://facebook.github.io/react/)
 - [Ember](http://emberjs.com/)
 - [Aurelia](http://aurelia.io)
