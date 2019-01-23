@@ -152,6 +152,7 @@ The the markdown used to render this page is maintained [here](https://github.co
 
 - [Clusterize.js](http://clusterize.js.org/) - Plugin to display large data sets easily
 - [Is.js](http://is.js.org/) - Micro check library
+- [Lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages
 
 ## Node
 
